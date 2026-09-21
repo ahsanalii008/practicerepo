@@ -1,2 +1,2 @@
 # practicerepo
-My First Repo 
+This is my First Git Repo 
